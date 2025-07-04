@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Lexin Ye"
-  avatar : "/assets/images/MyPhoto.jpeg"
+  avatar : "/assets/images/2.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
